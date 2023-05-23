@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "swalokal",
+  "private_key_id": "d5d94066187151bfed447bcec7442308e7631127",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKWJW938f9DfXh\nwyrWbIRxf9wzqURqZm7wJdnPXarKQWDN2lPaS3bhB5BRmrVtGy3XnAc7+XsC0TVi\nIsnA+DBo9N0oNuRNb7UApFx92xu5nhz86FQMZke326CwgapSdsUPHKiauaUVDXvL\ngKlY5U4boCsysCwDjOHyEK65Q3gOZYcngqipD4Lmyk0eoDpocL39GJuwMfc2jV2n\nCFB/B7UrhD1FeZbjh68hPI2aH4u+x+wXkRulBuoGtH7iLboFs1+K1EMsykrziwtq\nFqtsF7JIBZPnNr/5kolLPJEKpUMMtwxOvGEifN51PV7zZcYhv8wLLFUV7ZPyll9w\nNxGjEZitAgMBAAECggEADhU4xMiKqXrbgl08QcS3OhQJTiIphBNBhN7JiERvYtjG\nhUU9AUwvx60oVvmix2d1GxS9ryenr1RCuCQOMStE6UUjkE0zugz8hsEpu8uwZAyU\nXWjJErzaoHn9dtNreIZSJEFdHbmueubflxQLFUgOVd9hqks3IP8g6aFOG9BNjojU\nGpi2XYLE6bCsxayBkB9q+taSTVqmn0wLM7bEkSgt4p6duu0GX9EZGyR7Jr01OVMj\nfzISFRCfOpyZzUquYkeYvvca+WrAHQ67iwnGAAyqecTTVzQdLg0hhQlB9WgBYcdk\nehbfJmFg6tNjxUIT638+hcv60ZCRkN5ukKCHyMZkWQKBgQD6QIMzuKNAXdtSZViF\nBMg22wSCF59JDwdp0WvEous23kSwZUVPR7h6Y7+9WJ/1I7mO2ou9buqoYdbyft+p\nfpn7yP1RlIYLOeo81QmyfFGcik4/gCmHooz2C5cavQj1lbGm0qyy186dh+16buHc\ngJJ/BZPj7NdJcRfOloWGnjid2QKBgQDO/mJdevzl8eyjZtvoQmQtCcYFtDBoJDPb\nEZ/0RT9i/oTUujirLuaEKFSgJPd8wiB14vNdRxc7FAtkr37a+QGBzwJfsloiza/7\nrW7oh65CKusc5LCe1DDp6QQTOCinq3uGblVKWNnDBvjWYT/PGzm7P72lewH+ma8z\nqmOMYHnI9QKBgQDRHY+FbMieRM+87oslvHVBwYrm2q5z8mcTebhAPJOo6dskO7vL\nH/d77laO9rvTsOKiCOW0ijb0Na3UPUjQ7cXmrHFh9mZ8gwzFgI/14gSgdsIkNgh+\nGssH32+JHGWcMladPHari8JPyQIcyQNbquS/1/1Y/NR5vlNSgl1ZvGU7IQKBgBAi\n6p4o+VAftPfkC96mVlLggSxuqJtlvxkj3ZlYUKGx/77pqYNGy7efwUEewKBcLdWi\n1J//68KyRFUcDUKayNBKx/+X0skFyeNP2OaNtTr5R4zgExi+p/WEMcohxaGUj7Oi\nJEoAdTFr+LgVqrjFgZGkXW9qEHS9nFflv47w8m2FAoGAeAdhIAOEnOhJqbk3njQw\nI6ApqAKDCpzGL7NDAARAVAQ5kAe+l4oJVxxppkCKVTIUb4KiXSfS00A8EF2Hn5eS\nQOGZd5r3kIosA4x0D6m7kwF+4Jrg+edptLI/OpcCcWei1uYZW76FE6Lc8tZFkae/\nB1GJsf5n5mjjU+N2tC6LpXs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "swalokal1@swalokal.iam.gserviceaccount.com",
+  "client_id": "110055645575915151365",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/swalokal1%40swalokal.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
