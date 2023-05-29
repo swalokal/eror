@@ -1,0 +1,23 @@
+{
+  "name": "imagerecogapi",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.6.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "get-image-data": "^5.0.0",
+    "http-errors": "~1.6.3",
+    "jimp": "^0.22.8",
+    "morgan": "~1.9.1",
+    "multer": "*",
+    "nodemon": "^2.0.22",
+    "pug": "^2.0.0-beta11"
+  },
+  "type": "commonjs"
+}
